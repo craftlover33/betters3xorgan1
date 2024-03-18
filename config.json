@@ -78,7 +78,7 @@
       "category": "Better Sex Life",
       "title": "Sex Education",
       "image": "https://img.youtube.com/vi/gp99Cn2xqK8/mqdefault.jpg",
-      "content": "",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/betters3xlife%2Fsex%20education.html?alt=media&token=04b9a431-4e6b-4755-b3e5-1ca381f2dfd3",
       "video": "https://www.youtube.com/watch?v=gp99Cn2xqK8"
     },
 	{
@@ -86,7 +86,7 @@
       "category": "Better Sex Life",
       "title": "Better Sex Life",
       "image": "https://img.youtube.com/vi/yClNy21GKHU/mqdefault.jpg",
-      "content": "",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/betters3xlife%2Fbetter%20sex%20life.html?alt=media&token=0eec761a-70ed-4406-a8ba-52320ee0d444",
       "video": "https://www.youtube.com/watch?v=yClNy21GKHU"
     },
     {
@@ -94,48 +94,56 @@
       "category": "Better Sex Life",
       "title": "How to cure Premature Ejaulation",
       "image": "https://img.youtube.com/vi/73BHBV_3L5s/mqdefault.jpg",
-      "content": "",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/betters3xlife%2Fcure%20premature%20ejaculation.html?alt=media&token=a803ae97-9a03-4372-af66-bf183606e2fc",
       "video": "https://www.youtube.com/watch?v=73BHBV_3L5s"
     },
     {
       "id": 4,
       "category": "Better Sex Life",
-      "title": "",
-      "image": "",
-      "content": "",
-      "video": ""
+      "title": "Improve Sex Life",
+      "image": "https://img.youtube.com/vi/S2rG4lxwoWk/mqdefault.jpg",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/betters3xlife%2Fimprove%20sex%20life.html?alt=media&token=c804d618-5fcc-4b53-8239-1a241b08275d",
+      "video": "https://www.youtube.com/watch?v=S2rG4lxwoWk"
     },
     {
       "id": 5,
       "category": "Better Sex Life",
-      "title": "",
-      "image": "",
+      "title": "Exercise for Better Sex (Women)",
+      "image": "https://img.youtube.com/vi/DSEd6GaQIZg/mqdefault.jpg",
       "content": "",
-      "video": ""
+      "video": "https://www.youtube.com/watch?v=DSEd6GaQIZg"
     },
     {
       "id": 6,
       "category": "Better Sex Life",
-      "title": "",
-      "image": "",
+      "title": "Exercise For Better Sex (Men)",
+      "image": "https://img.youtube.com/vi/9kw_NaDJkv4/mqdefault.jpg",
       "content": "",
-      "video": ""
+      "video": "https://www.youtube.com/watch?v=9kw_NaDJkv4"
     },
 	{
       "id": 7,
       "category": "Better Sex Life",
-      "title": "",
-      "image": "",
-      "content": "",
-      "video": ""
+      "title": "Food For Better Sex",
+      "image": "https://img.youtube.com/vi/p8LQZJf0/mqdefault.jpg",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/betters3xlife%2Ffood%20for%20better%20sex.html?alt=media&token=8e4f6b42-e7fb-42cc-acd3-86f8f5387d66",
+      "video": "https://www.youtube.com/watch?v=fI_p8LQZJf0"
     },
     {
       "id": 8,
       "category": "Better Sex Life",
-      "title": "",
-      "image": "",
+      "title": "How to treat women on sex",
+      "image": "https://img.youtube.com/vi/F93QsUnZUwM/mqdefault.jpg",
       "content": "",
-      "video": ""
+      "video": "https://www.youtube.com/watch?v=F93QsUnZUwM"
+    },
+    {
+      "id": 9,
+      "category": "Better Sex Life",
+      "title": "How to treat men on sex",
+      "image": "https://img.youtube.com/vi/vWIwWQ2ZPMU/mqdefault.jpg",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=vWIwWQ2ZPMU"
     }
   ],
   "more_apps": [
